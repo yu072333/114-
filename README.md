@@ -10,3 +10,5 @@
 [HW4](https://github.com/yu072333/114-/blob/main/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E4%BD%9C%E6%A5%AD4.ipynb)
 
 [HW5](https://github.com/yu072333/114-/blob/main/%E7%A8%8B%E8%A8%AD%EF%BC%A8%EF%BC%B7%EF%BC%95.ipynb)
+
+[HW6](uhttps://github.com/yu072333/114-/blob/main/HW6.ipynb)
