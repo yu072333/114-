@@ -11,4 +11,4 @@
 
 [HW5](https://github.com/yu072333/114-/blob/main/%E7%A8%8B%E8%A8%AD%EF%BC%A8%EF%BC%B7%EF%BC%95.ipynb)
 
-[HW6](uhttps://github.com/yu072333/114-/blob/main/HW6.ipynb)
+[HW6](https://github.com/yu072333/114-/blob/main/HW6.ipynb)
